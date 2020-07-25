@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Completely new to this, but let's improve it as we go, shall we?
+- 🔭 I’m currently working with VIP Customer Service
+- 🌱 I’m currently learning Web Dev in general (JS, HTML and CSS)
+- 🤔 I’m looking for my first job in IT
+- 📫 How to reach me: [LinkedIN](https://www.linkedin.com/in/raisa-pagin-9a2318182/)
+- ⚡ Fun fact: ... Check my latest repository with a mini game done in a 5 days crash course >> [here](https://raipagnin.github.io/Alura.HipstaGame/)
